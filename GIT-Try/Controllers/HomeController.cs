@@ -10,7 +10,7 @@ namespace GIT_Try.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "1ST CHANGE.";
+            ViewBag.Message = "2ND CHANGE.";
 
             return View();
         }
