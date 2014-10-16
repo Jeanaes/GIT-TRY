@@ -10,7 +10,7 @@ namespace GIT_Try.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "1ST CHANGE.";
 
             return View();
         }
